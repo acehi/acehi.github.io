@@ -24,7 +24,7 @@ layout: main
             <div class="content">
                 <time datetime="{{ featured.date | date_to_xmlschema }}" class="date">
                     {% if site.date_format == nil %}
-                    {{ featured.date | date: "%m.%d.%Y" }}
+                    {{ featured.date | date: "%d . %m . %Y" }}
                     {% else %}
                     {{ featured.date | date: site.date_format }}
                     {% endif %}
