@@ -1,0 +1,21 @@
+name: Acehi
+title: Acehi | Blog
+#date_format: 09. 05. 2020
+description: 观天之道，执天之行，尽矣。
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+show_hero: true
+#paginate: 10
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+#  - title: Contact
+#    url: /contact
+email: acehi@gmx.com
+disqus_username: disqus_username
