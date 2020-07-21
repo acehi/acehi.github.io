@@ -13,6 +13,8 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: LeetCode
+    url: /tags/#leetcode
   - title: About
     url: /about
 #  - title: Contact

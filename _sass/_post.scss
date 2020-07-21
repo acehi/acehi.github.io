@@ -189,11 +189,11 @@
   h6 {
     @include mainFont(700);
     margin-top: 0;
-    padding-top: rem(50px);
+    padding-top: rem(20px);
 
     @include media(">=sm") {
       margin-top: 0;
-      padding-top: rem(60px);
+      padding-top: rem(10px);
     }
   }
   h1 {
@@ -260,7 +260,7 @@
   hr {
     @include center(rem(760px));
     border: 1px solid $lightGray;
-    margin: 50px auto;
+    margin: 30px auto;
   }
 
   pre {
