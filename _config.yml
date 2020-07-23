@@ -12,11 +12,13 @@ tags:
 show_hero: true
 #paginate: 10
 menu:
-  - title: Home
+  - title: 主页
     url: /
+  - title: 目录
+    url: /tags
   - title: LeetCode
     url: /tags/#leetcode
-  - title: About
+  - title: 关于
     url: /about
 #  - title: Contact
 #    url: /contact
