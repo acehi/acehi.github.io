@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Blog
-slug: blog
+title: Algorithm
+slug: algorithm
 description: A category for general blog posts.
 ---
 

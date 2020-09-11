@@ -6,7 +6,7 @@ subtitle:
 description: "wechat: Acehii"
 image: /assets/img/convers/LCP:13-寻宝.jpeg
 optimized_image: /assets/img/convers/LCP:13-寻宝.jpeg
-category:
+category: algorithm
 tags:
  - algorithm
  - leetCode
@@ -86,4 +86,17 @@ S 和 T 有且只有一个
 <p class="p-style"><a href="https://leetcode-cn.com/problems/xun-bao/" class="a-style">来源：LeetCode</a></p>
 
 ---
+
+原谅我暂时还没想到好的方法，，，
+
+### 解法：
+
+#### 一、Brute Force
+
+<p class="p-style">思路：</p>
+<p class="p-style"></p>
+
+```go
+
+```
 

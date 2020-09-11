@@ -150,7 +150,7 @@ echo "    line-height:1px !important;"
 echo "    text-decoration:none !important;"
 echo "}"
 echo "</style>"
-echo "<p class="p-style"><a href="" class="a-style">来源：LeetCode</a></p>"
+echo "<p class=\"p-style\"><a href=\"\" class=\"a-style\">来源：LeetCode</a></p>"
 }
 
 # Create file
